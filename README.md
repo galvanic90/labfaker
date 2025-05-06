@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/galvanic90/labfaker/actions/workflows/build.yml/badge.svg)](https://github.com/galvanic90/labfaker/actions/workflows/build.yml)
+
 # labfaker
 
 Este repositorio contiene el código correspondiente al segundo laboratorio de la asignatura Arquitectura de 
