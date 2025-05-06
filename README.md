@@ -4,8 +4,9 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=coverage)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
-[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
+
 # labfaker
 
 Este repositorio contiene el código correspondiente al segundo laboratorio de la asignatura Arquitectura de 
