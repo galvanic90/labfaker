@@ -16,6 +16,9 @@
 	<url/>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>galvanic90_labfaker</sonar.projectKey>
+		<sonar.organization>galvanic90</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
