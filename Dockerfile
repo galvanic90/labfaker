@@ -1,6 +1,6 @@
 FROM openjdk:11
 EXPOSE 8080
-ADD labfaker-0.0.1-SNAPSHOT.jar labfaker-0.0.1-SNAPSHOT.jar
+ADD labfaker.jar labfaker.jar
 LABEL authors="xaraxx"
 
-ENTRYPOINT ["java", "-jar", "labfaker-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-jar", "labfaker.jar"]
