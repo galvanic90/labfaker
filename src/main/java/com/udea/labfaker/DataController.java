@@ -71,4 +71,21 @@ public class DataController {
         return aviations;
     }
 
+    @GetMapping("/game-of-thrones")
+    public JsonNode getRandomGameOfThrones(){
+        var objectMapper = new ObjectMapper();
+        var faker = new Faker(new Locale("en-US"));
+        var gameOfThronesData = objectMapper.createArrayNode();
+        for (var i = 0; i < 20; i++) {
+            var gameOfThrones = faker.gameOfThrones();
+            gameOfThronesData.add(objectMapper.createObjectNode()
+                    .put("character", gameOfThrones.character())
+                    .put("house", gameOfThrones.house())
+                    .put("quote", gameOfThrones.quote())
+                    .put("city", gameOfThrones.city())
+            );
+    }
+    return gameOfThronesData;
+    }
+
 }
