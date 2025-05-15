@@ -5,7 +5,7 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=coverage)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=galvanic90_labfaker&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
-
+[![Coverage Status](https://coveralls.io/repos/github/galvanic90/labfaker/badge.svg?branch=main)](https://coveralls.io/github/galvanic90/labfaker?branch=main)
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=galvanic90_labfaker)
 
